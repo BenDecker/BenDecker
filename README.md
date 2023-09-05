@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello and welcome to my github!
+### I know basic java and I am currently learning C++
+### I am currently majoring in Computer Science
+### Cool fact: I play videogames
 
 <!--
 **BenDecker/BenDecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
